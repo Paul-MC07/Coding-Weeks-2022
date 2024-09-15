@@ -1,0 +1,30 @@
+Projet de notation de la fiabilité d’un utilisateur en fonction de son activité (tweets, likes, RT)
+
+Objectif 1 : Traitement de la base de donneées de tweets notés comme mensongers ou non
+
+Sprint 1 : Création de la base de données
+Fonctionnalité 1 : Extraction de tweets sur l’Ukraine
+Fonctionnalité 2 : Création logiciel pour évaluer les tweets
+Fonctionnalité 3 : Évaluer une quantité suffisante de tweets
+Fonctionnalité 4 : Extraire les données sous forme exploitable
+
+Sprint 2 : Traitement des données
+Fonctionnalité 5 : Calcul de la fréquence des mots
+Fonctionnalité 6 : Définir les mots remarquables
+
+
+Objectif 2 : Traitement des tweets
+
+Sprint 3 : Algorithme de notation des tweets
+Fonctionnalité 7 : Définir une formule de calcul de la note
+Fonctionnalité 8 : Implémenter la notation
+
+Sprint 4 : Application à l’ensemble des tweets d’un utilisateur
+Fonctionnalité 9 : Établir la formule de calcul de la note utilisateur
+Fonctionnalité 10 : Fonction d’extraction des tweets d’un utilisateur, de ses likes et RTs
+Fonctionnalité 11 : Implémentation de la notation utilisateur
+
+
+Objectif 3 : Amélioration de l’analyse des tweets
+
+Sprint 5 : Développement et entraînement d’une IA
